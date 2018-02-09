@@ -1,0 +1,29 @@
+
+body{
+	background-image: url('index.jpg');}
+table{
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+fieldset{
+	color: red;
+	width: 40%;
+	margin-left: 30%;
+}
+textarea{
+	font-size: 1em;
+	font-weight: bolder;
+	color: red;
+}
+h2{
+	color: red;
+}
+label{
+	color: white;
+}
+input{
+	margin-left:25%;
+	color: red;
+	font-weight: bolder;
+}
